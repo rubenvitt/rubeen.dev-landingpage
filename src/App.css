@@ -1,5 +1,11 @@
+@import "assets/fomantic-ui/dist/semantic.css";
+
 .App {
   text-align: center;
+}
+
+.appContainer {
+  margin-top: 20vh;
 }
 
 .App-logo {
