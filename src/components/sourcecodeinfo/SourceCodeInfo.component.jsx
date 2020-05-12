@@ -3,7 +3,7 @@ import styles from './SourceCodeInfo.module.css';
 import ReactLogo from './icons8-gitlab.svg';
 
 function SourceCodeInfo () {
-    const redirect = () => document.location.href = 'https://gitlab.rubeen.dev/web/business-card';
+    const redirect = () => document.location.href = 'https://gitlab.rubeen.dev/rubeen/rubeen.dev-landing-page';
 
     return (
         <div onClick={redirect} className={styles.main}>
