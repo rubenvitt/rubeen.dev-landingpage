@@ -6,11 +6,11 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^10.4.8",
     "@testing-library/user-event": "^12.1.1",
-    "fomantic-ui": "^2.8.6",
+    "fomantic-ui": "^2.8.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3",
-    "semantic-ui-react": "^1.2.0"
+    "semantic-ui-react": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
